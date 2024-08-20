@@ -1,0 +1,43 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Windows system files
+AppData/
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.swp
